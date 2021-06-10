@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat+Alternates:900');
 
 * {box-sizing: border-box;}
+
 h1 {
     color:rgb(226, 43, 211);
      font-size: 50px;
@@ -39,5 +40,5 @@ h1 {
         flex-wrap: wrap;
         
     }
-     
+
  
