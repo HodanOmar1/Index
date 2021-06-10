@@ -16,12 +16,28 @@ h1 {
    color:indigo;
    font-size: 20px;
   }
-   ul {
+  div{
+    display: flex;
+    border: 10px solid rgb(192, 253, 255);
+    height: 100vh;
+    margin: 20px;
+    align-items: center;  
+    flex-wrap: wrap;
+    
+} 
+  ul {
      color:darkmagenta;
      font-size: 5px;
    }
    body {
-       background-color:pink;
-     }
- 
+        background-color:pink;
+        display: flex;
+        border: 10px solid rgb(153, 138, 138);
+        height: 100vh;
+        margin: 20px;
+        align-items: center;  
+        flex-wrap: wrap;
+        
+    }
+     
  
