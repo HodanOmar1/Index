@@ -2,6 +2,7 @@
 
 * {box-sizing: border-box;}
 
+
 h1 {
     color:rgb(226, 43, 211);
      font-size: 50px;
@@ -11,20 +12,20 @@ h1 {
    }
   p {
     color:crimson;
-    font-size: 50px;
+    font-size: 30px;
   }
   ol {
    color:indigo;
    font-size: 20px;
   }
-  div{
+  /* div{
     display: flex;
     border: 10px solid rgb(192, 253, 255);
     height: 100vh;
     margin: 20px;
     align-items: center;  
     flex-wrap: wrap;
-    
+     */
 } 
   ul {
      color:darkmagenta;
@@ -32,12 +33,12 @@ h1 {
    }
    body {
         background-color:pink;
-        display: flex;
+        /* display: flex;
         border: 10px solid rgb(153, 138, 138);
         height: 100vh;
         margin: 20px;
         align-items: center;  
-        flex-wrap: wrap;
+        flex-wrap: wrap; */
         
     }
 
