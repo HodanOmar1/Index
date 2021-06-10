@@ -1,0 +1,24 @@
+h1 {
+    color:rgb(226, 43, 211);
+     font-size: 50px;
+     margin: 0px;
+     background-color:indigo;
+     text-align: center;
+   }
+  p {
+    color:crimson;
+    font-size: 50px;
+  }
+  ol {
+   color:indigo;
+   font-size: 20px;
+  }
+   ul {
+     color:darkmagenta;
+     font-size: 5px;
+   }
+   body {
+       background-color:pink;
+     }
+ 
+ 
